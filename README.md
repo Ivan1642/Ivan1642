@@ -68,12 +68,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivan1642&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan1642&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan1642&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr>
@@ -81,8 +76,7 @@
 <h2>🤝 Conectemos</h2>
 
 <ul>
-  //<li>💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a></li>
-  //<li>🌐 <a href="https://tuportfolio.com" target="_blank">Portfolio</a></li>
+  <li>💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a></li>
   <li>📫 Email: ivanlisleon@gmail.com</li>
 </ul>
 
