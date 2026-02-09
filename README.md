@@ -49,18 +49,7 @@
 <p>
   🛠 Tecnologías: Laravel, mysql, Javascript, PHP, HTML, CSS 
   <br>
-  🔗 <a href="https://tu-demo.com" target="_blank">Demo</a> · 
-  📂 <a href="https://github.com/tuusuario/tu-repo" target="_blank">Repositorio</a>
-</p>
-
-<h3>🌟 Otro Proyecto</h3>
-<p>
-  Proyecto enfocado en <b>X</b> con énfasis en <b>Y</b>.
-</p>
-<p>
-  🛠 Tecnologías: HTML, CSS, JavaScript  
-  <br>
-  📂 <a href="https://github.com/Ivan1642/TiendaMyFitness">Repositorio</a>
+  📂 <a href="https://github.com/Ivan1642/TiendaMyFitness" target="_blank">Repositorio</a>
 </p>
 
 <hr>
@@ -76,7 +65,7 @@
 <h2>🤝 Conectemos</h2>
 
 <ul>
-  <li>💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/iv%C3%A1n-lis-le%C3%B3n-0048a626b/" target="_blank">LinkedIn</a></li>
   <li>📫 Email: ivanlisleon@gmail.com</li>
 </ul>
 
