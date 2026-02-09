@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Iván</h1>
 
-<!--
-**Ivan1642/Ivan1642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desarrollador/a Web · 🌱 Siempre aprendiendo
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>“Convirtiendo ideas en código ☕”</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>✨ Sobre mí</h2>
+<ul>
+  <li>🔭 Actualmente estudiando DAW en: <b>I.E.S La Vereda</b></li>
+  <li>🌱 Aprendiendo: <b>PHP, Laravel, Docker</b></li>
+  <li>💡 Intereses: <b>desarrollo web en entorno cliente, diseño de interfaces</b></li>
+</ul>
+
+<hr>
+
+<h2>🧰 Tecnologías</h2>
+
+<h3>Lenguajes</h3>
+<p>
+  JavaScript · HTML · CSS · Java · PHP · XML
+</p>
+
+<h3>Frameworks</h3>
+<p>
+  React · Laravel · SASS/SCSS
+</p>
+
+<h3>Herramientas</h3>
+<p>
+  Git · GitHub · Docker
+</p>
+
+<h3>IDE</h3>
+ Sublime Text · IntelliJ · VS Code · Eclipse · Mysql Workbench
+<hr>
+
+<h2>🚀 Proyectos destacados</h2>
+
+<h3>🌟 Tienda Online MyFitness</h3>
+<p>
+  Tienda online de nutrición deportiva.
+</p>
+<p>
+  🛠 Tecnologías: Laravel, mysql, Javascript, PHP, HTML, CSS 
+  <br>
+  🔗 <a href="https://tu-demo.com" target="_blank">Demo</a> · 
+  📂 <a href="https://github.com/tuusuario/tu-repo" target="_blank">Repositorio</a>
+</p>
+
+<h3>🌟 Otro Proyecto</h3>
+<p>
+  Proyecto enfocado en <b>X</b> con énfasis en <b>Y</b>.
+</p>
+<p>
+  🛠 Tecnologías: HTML, CSS, JavaScript  
+  <br>
+  📂 <a href="https://github.com/Ivan1642/TiendaMyFitness">Repositorio</a>
+</p>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivan1642&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan1642&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan1642&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr>
+
+<h2>🤝 Conectemos</h2>
+
+<ul>
+  //<li>💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a></li>
+  //<li>🌐 <a href="https://tuportfolio.com" target="_blank">Portfolio</a></li>
+  <li>📫 Email: ivanlisleon@gmail.com</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  ⭐ Si te gusta lo que ves, no olvides dejar una estrella  
+  <br>
+  ¡Gracias por pasarte por aquí! 🙌
+</p>
