@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Iván</h1>
+<h1 align="center">👋 Hola, soy Iván Lis</h1>
 
 <p align="center">
   💻 Desarrollador/a Web · 🌱 Siempre aprendiendo
