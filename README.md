@@ -13,7 +13,7 @@
 <h2>✨ Sobre mí</h2>
 <ul>
   <li>🔭 Actualmente estudiando DAW en: <b>I.E.S La Vereda</b></li>
-  <li>🌱 Aprendiendo: <b>PHP, Laravel, Docker</b></li>
+  <li>🌱 Aprendiendo: <b>Docker, Tailwind</b></li>
   <li>💡 Intereses: <b>desarrollo web en entorno cliente, diseño de interfaces</b></li>
 </ul>
 
@@ -23,12 +23,12 @@
 
 <h3>Lenguajes</h3>
 <p>
-  JavaScript · HTML · CSS · Java · PHP · XML
+  JavaScript · HTML · CSS · Java · PHP · XML · PL/SQL
 </p>
 
 <h3>Frameworks</h3>
 <p>
-  React · Laravel · SASS/SCSS
+  React · Laravel · SASS/SCSS · Tailwind
 </p>
 
 <h3>Herramientas</h3>
